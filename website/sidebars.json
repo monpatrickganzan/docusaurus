@@ -1,0 +1,11 @@
+{
+  "docs": {
+    "Introduction": ["doc1"],
+    "Documentation 1": ["doc2"],
+    "Documentation 2": ["documentation"],
+    "Fligno Docu": ["fligno-docu"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
